@@ -1,4 +1,4 @@
-# Ecom_Shoe Screens
+# Ecom_Plant_UI Screens
 
 A new Flutter project having screens of a E-com based on Shoe Product.
 
@@ -13,11 +13,12 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screens Are Below
 
-![ScreenShot](https://raw.github.com/CrickSoldier/ecom_plant_ui/master/screens/1.jpg)
-![ScreenShot](https://raw.github.com/CrickSoldier/ecom_plant_ui/master/screens/2.jpg)
+<img src="https://raw.github.com/CrickSoldier/ecom_plant/master/screens/1.jpg" width="256"/>
+<br>
+<img src="https://raw.github.com/CrickSoldier/ecom_plant/master/screens/2.jpg" width="256"/>
 
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Shoe_Ecom_UI
+# Shoe_Plant_UI
