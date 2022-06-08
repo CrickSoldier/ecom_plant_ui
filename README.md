@@ -13,9 +13,9 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screens Are Below
 
-<img src="https://raw.github.com/CrickSoldier/ecom_plant/master/screens/1.jpg" width="256"/>
+<img src="https://raw.github.com/CrickSoldier/ecom_plant_ui/master/screens/1.jpg" width="256"/>
 <br>
-<img src="https://raw.github.com/CrickSoldier/ecom_plant/master/screens/2.jpg" width="256"/>
+<img src="https://raw.github.com/CrickSoldier/ecom_plant_ui/master/screens/2.jpg" width="256"/>
 
 
 For help getting started with Flutter, view our
